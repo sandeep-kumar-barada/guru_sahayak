@@ -1,0 +1,17 @@
+pyymal
+tqdm
+pydantic
+pymupdf
+pdfplumber
+pytesseract
+pillow
+llama-cpp-python
+transformers
+accelerate
+bitsandbytes
+huggingface_hub
+sentencepiece
+sqlalchemy
+gradio
+streamlit
+pytest
